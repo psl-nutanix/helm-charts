@@ -2,11 +2,11 @@ apiVersion: v1
 entries:
   demoapp:
   - apiVersion: v1
-    created: 2018-06-13T05:37:50.150781617-04:00
+    created: 2018-06-14T06:42:49.711072109-04:00
     description: A Helm chart for Kubernetes
-    digest: cb019948104d6de835bfe2b6f993571f6d05db289454d43bba5a3d11f20aedfd
+    digest: 7c1539e2350389c443b5bd07a831db7297e43d84b72fd6bbb1f1e4fdd834f125
     name: demoapp
     urls:
-    - https://github.com/psl-nutanix/helm-charts/demoapp-0.1.0.tgz
+    - https://psl-nutanix.github.io/helm-charts/demoapp-0.1.0.tgz
     version: 0.1.0
-generated: 2018-06-13T05:37:50.150214672-04:00
+generated: 2018-06-14T06:42:49.710321418-04:00
